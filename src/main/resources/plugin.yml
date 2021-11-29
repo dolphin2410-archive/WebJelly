@@ -1,4 +1,4 @@
-main: io.github.dolphin2410.webjelly.WebJellyPlugin
+main: io.github.dolphin2410.webjelly.paper.WebJellyPlugin
 version: 1.0.0
 author: dolphin2410
 name: webjelly
