@@ -1,4 +1,4 @@
-package io.github.dolphin2410.webjelly.maven
+package me.dolphin2410.webjelly.maven
 
 data class MavenArtifact(val groupId: String, val artifactId: String, val version: String) {
     companion object {

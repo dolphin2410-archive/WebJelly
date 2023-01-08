@@ -46,6 +46,19 @@ So in the case when you want to load `myproject` from `https://example.com/repo/
 }
 ```
 
+MavenCentral and MavenLocal is also supported
+
+```json
+{
+    "mavenLocal": [
+        "myproject"
+    ],
+    "mavenCentral": [
+        "myproject2"
+    ]
+}
+```
+
 ### Using Your Plugin
 The tree should be like this
 ```bash

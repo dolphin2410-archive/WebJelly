@@ -44,6 +44,20 @@ So in the case when you want to load `myproject` from `https://example.com/repo/
 }
 ```
 
+
+MavenCentral과 MavenLocal도 지원됩니다
+
+```json
+{
+    "mavenLocal": [
+        "myproject"
+    ],
+    "mavenCentral": [
+        "myproject2"
+    ]
+}
+```
+
 ### 플러그인 사용하기
 파일 구조는 다음과 같아야합니다.
 ```bash

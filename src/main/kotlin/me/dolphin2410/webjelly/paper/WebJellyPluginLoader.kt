@@ -1,4 +1,4 @@
-package io.github.dolphin2410.webjelly.paper
+package me.dolphin2410.webjelly.paper
 
 import io.github.teamcheeze.jaw.reflection.ConstructorAccessor
 import io.github.teamcheeze.jaw.reflection.FieldAccessor

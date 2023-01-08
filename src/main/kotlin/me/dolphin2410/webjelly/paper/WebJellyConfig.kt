@@ -1,4 +1,4 @@
-package io.github.dolphin2410.webjelly.paper
+package me.dolphin2410.webjelly.paper
 
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonArray

@@ -1,8 +1,8 @@
-main: io.github.dolphin2410.webjelly.paper.WebJellyPlugin
+main: me.dolphin2410.webjelly.paper.WebJellyPlugin
 version: 1.0.0
 author: dolphin2410
 name: webjelly
-api-version: 1.17
+api-version: 1.19
 libraries:
   - io.github.teamcheeze:jaw:1.0.4
   - org.eclipse.aether:aether-api:1.1.0

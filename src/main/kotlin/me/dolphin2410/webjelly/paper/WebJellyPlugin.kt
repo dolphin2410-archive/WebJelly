@@ -1,8 +1,8 @@
-package io.github.dolphin2410.webjelly.paper
+package me.dolphin2410.webjelly.paper
 
-import io.github.dolphin2410.webjelly.WebJelly
-import io.github.dolphin2410.webjelly.maven.MavenArtifact
-import io.github.dolphin2410.webjelly.maven.MavenRepository
+import me.dolphin2410.webjelly.WebJelly
+import me.dolphin2410.webjelly.maven.MavenArtifact
+import me.dolphin2410.webjelly.maven.MavenRepository
 import org.bukkit.Bukkit
 import org.bukkit.plugin.java.JavaPlugin
 import java.io.File

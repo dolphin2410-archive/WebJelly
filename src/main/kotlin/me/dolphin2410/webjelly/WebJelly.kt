@@ -1,7 +1,7 @@
-package io.github.dolphin2410.webjelly
+package me.dolphin2410.webjelly
 
-import io.github.dolphin2410.webjelly.maven.MavenArtifact
-import io.github.dolphin2410.webjelly.maven.MavenRepository
+import me.dolphin2410.webjelly.maven.MavenArtifact
+import me.dolphin2410.webjelly.maven.MavenRepository
 import org.apache.maven.repository.internal.MavenRepositorySystemUtils
 import org.eclipse.aether.RepositorySystem
 import org.eclipse.aether.artifact.DefaultArtifact
